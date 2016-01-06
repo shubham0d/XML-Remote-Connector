@@ -44,9 +44,8 @@ just run
 To start
 --------
 for server type this in your terminal
-* $xmlserver
-for client type 
-* $xmlclient
+* $xmlserver 
+* $xmlclient(for client)
 
 Quick start
 -----------
