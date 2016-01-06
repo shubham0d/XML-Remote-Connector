@@ -1,4 +1,3 @@
-# XML-Remote-Connector
 XML Remote Connector (ver 1.0)
 ====================
 XML Remote Connector - Copyright (C) 2015-2016 by Shubham Dubey <sdubey504@gmail.com>
@@ -19,14 +18,14 @@ XML Remote Connector is developed by [Shubham Dubey](https://github.com/shubham0
 
 Highlights
 -------------
-*1)Can work as replacement of ssh scp or netcat.
-*-> Use as a simple chat application
-*->Can be use to copy file from one system to another.
-*->Use to exec remote commands.
-*2)Use AES encryption for sending and recieve messages.
-*3)Multiple connection supports on Server.
-*4)No extra installion required.
-*5)User friendly and simple to run
+* 1)Can work as replacement of ssh scp or netcat.
+* -> Use as a simple chat application
+* ->Can be use to copy file from one system to another.
+* ->Use to exec remote commands.
+* 2)Use AES encryption for sending and recieve messages.
+* 3)Multiple connection supports on Server.
+* 4)No extra installion required.
+* 5)User friendly and simple to run
 
 
 
@@ -40,7 +39,7 @@ Requirements
 Installation
 ------------
 just run 
-$sudo install.sh 
+* $sudo install.sh 
 
 
 Quick start
