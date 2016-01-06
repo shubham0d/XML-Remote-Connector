@@ -41,6 +41,12 @@ Installation
 just run 
 * $sudo install.sh 
 
+To start
+--------
+for server type this in your terminal
+* $xmlserver
+for client type 
+* $xmlclient
 
 Quick start
 -----------
