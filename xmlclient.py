@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 
 #XML remote connector(version 1.0)-Python based xml server for remote services
 # Copyright (C) 2015 Shubham Dubey
@@ -280,6 +282,9 @@ def main():
     print
     
     ip=raw_input("\033[36mEnter the ip address of the server:")
+    if ip=='':
+	print "\033[31mPlese enter the valid IP address\nQuitting...\n \033[0m"
+	quit()
     port=raw_input("Enter the listener port(default=9000):\033[0m")
     
     if port=='':

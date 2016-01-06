@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #XML remote connector(version 1.0)-Python based xml server for remote services
 # Copyright (C) 2015 Shubham Dubey
 #
@@ -15,24 +16,11 @@
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-'''Xml based server to serve for many purpose 
+#Xml based server to serve for many remote tasks
 
 
-XMLremote connector use xmlrpclib and SimpleXMLRPCServer
-(apt: python-imaging, web: <http://svn.python.org/projects/python/trunk/Lib/SimpleXMLRPCServer.py>).
-'''
-
-
-
-
-
-
-
-
-
-
-
-
+#XMLremote connector use xmlrpclib and SimpleXMLRPCServer
+#(apt: python-imaging, web: <http://svn.python.org/projects/python/trunk/Lib/SimpleXMLRPCServer.py>).
 
 
 from SimpleXMLRPCServer import SimpleXMLRPCServer
