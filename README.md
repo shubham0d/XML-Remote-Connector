@@ -19,14 +19,14 @@ XML Remote Connector is developed by [Shubham Dubey](https://github.com/shubham0
 
 Highlights
 -------------
-1)Can work as replacement of ssh scp or netcat.
--> Use as a simple chat application
-->Can be use to copy file from one system to another.
-->Use to exec remote commands.
-2)Use AES encryption for sending and recieve messages.
-3)Multiple connection supports on Server.
-4)No extra installion required.
-5)User friendly and simple to run
+*1)Can work as replacement of ssh scp or netcat.
+*-> Use as a simple chat application
+*->Can be use to copy file from one system to another.
+*->Use to exec remote commands.
+*2)Use AES encryption for sending and recieve messages.
+*3)Multiple connection supports on Server.
+*4)No extra installion required.
+*5)User friendly and simple to run
 
 
 
@@ -52,4 +52,4 @@ Quick start
 
 Please refer to the TODO file that has been shipped with XML Remote Connector.
 
-Thanks in advance for your feedback and contributions.
+*Thanks in advance for your feedback and contributions.
