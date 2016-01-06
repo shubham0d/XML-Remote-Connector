@@ -30,14 +30,15 @@ Highlights
 
 
 
-=== Requirements ===
-
+Requirements
+------------
 * the SimpleXMLRPCServer module needs to be installed (if not installed)
 * the Crypto and xmlrpclib module needs to be present
 * and of course python 2 have to be present
 
 
-=== Installation ===
+Installation
+------------
 just run 
 $sudo install.sh 
 
@@ -48,7 +49,8 @@ Quick start
 * Clone repo `git clone git://github.com/shubham0d/XML-Remote-Connector`.
 * GIT usage: [README GIT](README-GIT.md)
 
-=== Known issues ===
+Known issues
+------------
 
 Please refer to the TODO file that has been shipped with XML Remote Connector.
 
