@@ -1,0 +1,19 @@
+XML Remote Connector - Copyright (C) 2015-16 by Shubham Dubey <sdubey504@gmail.com>
+        
+
+Published under the terms of the GNU General Public License.
+See http://www.gnu.org/licenses/gpl.html for a recent copy.
+
+=== XML Remote Connector TODOs ===
+
+* using multithreading to send and recieve data so that more msg can be send even if replay does'nt come
+* option to send or recieve whole directory
+* server side verbose message display that what output is send to client
+* using optparse to add ip and port while running the command
+
+=== XML Remote Connector Wishlist ===
+
+* 
+
+
+If you find any issues with this programme please let me know.
