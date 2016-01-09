@@ -10,7 +10,7 @@ See http://www.gnu.org/licenses/gpl.html for a recent copy.
 * option to send or recieve whole directory
 * server side verbose message display that what output is send to client
 * using optparse to add ip and port while running the command
-
+* in server when any msg recieve the a gui dialog box will show the msg and allow to replay through that.
 === XML Remote Connector Wishlist ===
 
 * 
