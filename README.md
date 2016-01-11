@@ -7,7 +7,7 @@ XML Remote Connector - Copyright (C) 2015-2016 by Shubham Dubey <sdubey504@gmail
 
     
 
-XML Remote Connector is a remote server client application that can use for doing any simple task in remote server which is listing for some connection.
+XML Remote Connector is a remote server client application that can use for doing any simple task in remote server which is listening for some connection.
 XML Remote Connector is developed in Python using SimpleXMLRPCServer and xmlrpclib.
 The idea behind creating this program is that there is no popular tool that can give remote control on other system for executing commands with transferring file in parallel and also to send message.Although netcat is there for this but is none of them can be done at once and is not very friendly.So,here is this tool through which you can exec commands, send encrypted messages and tranferring file at same.
 * Right now it is in  beginning phase but soon be ready to use in any enviorment. 
